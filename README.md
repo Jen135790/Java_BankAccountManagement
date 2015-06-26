@@ -33,8 +33,7 @@ To see how the program works, you must download the contents in the release
 	folder. Make sure both the jar file and the .mdf database file are in the same 
 	folder for the application to work correctly.
 	
-####Disclaimer
-This project is final and for demonstration purposes only.
+####This project is final and for demonstration purposes only.
 
 ####Images
 ![alt tag](https://lh3.googleusercontent.com/AaRtRsQeBtxAcl-g4VL805FET2Y6wAdTB3V8vATfVg=w380-h184-no)
